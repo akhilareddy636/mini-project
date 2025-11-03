@@ -35,26 +35,20 @@
     "price": 1.9,
     "image": "https://upload.wikimedia.org/wikipedia/commons/9/90/Hapus_Mango.jpg"
   },
-    {
-    "id": 7,
-    "name": "Papaya",
-    "price": 2.75,
-    "image": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Papaya_cross_section_BNC.jpg"
-  },
   {
-    "id": 8,
+    "id": 7,
     "name": "Kiwi",
     "price": 1.8,
     "image": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Kiwi_aka.jpg"
   },
  {
-    "id": 9,
+    "id": 8,
     "name": "Cherry",
     "price": 3.0,
     "image": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Cherry_Stella444.jpg"
   },
   {
-    "id": 10,
+    "id": 9,
     "name": "Strawberry",
     "price": 3.00,
     "image": "https://upload.wikimedia.org/wikipedia/commons/2/29/PerfectStrawberry.jpg"
