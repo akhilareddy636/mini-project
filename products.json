@@ -23,8 +23,38 @@
     "price": 2.50,
     "image": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Table_grapes_on_white.jpg"
   },
-  {
+   {
     "id": 5,
+    "name": "Pineapple",
+    "price": 2.5,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Pineapple_and_cross_section.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Mango",
+    "price": 1.9,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/90/Hapus_Mango.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Watermelon",
+    "price": 4.5,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Watermelon.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Kiwi",
+    "price": 1.8,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Kiwi_aka.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Pomegranate",
+    "price": 2.6,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Pomegranate_fruit_-_whole_and_open.jpg"
+  };
+  {
+    "id": 10,
     "name": "Strawberry",
     "price": 3.00,
     "image": "https://upload.wikimedia.org/wikipedia/commons/2/29/PerfectStrawberry.jpg"
