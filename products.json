@@ -35,11 +35,11 @@
     "price": 1.9,
     "image": "https://upload.wikimedia.org/wikipedia/commons/9/90/Hapus_Mango.jpg"
   },
-   {
+    {
     "id": 7,
-    "name": "Watermelon",
-    "price": 4.5,
-    "image": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Watermelon_cross_BNC.jpg"
+    "name": "Papaya",
+    "price": 2.75,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Papaya_cross_section_BNC.jpg"
   },
   {
     "id": 8,
@@ -48,11 +48,10 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Kiwi_aka.jpg"
   },
  {
-    "id": 12,
-    "name": "Pomegranate",
-    "price": 2.6,
-    "image": "https://upload.wikimedia.org/wikipedia/commons/3/32/Pomegranate01_edit.jpg"
-  
+    "id": 11,
+    "name": "Cherry",
+    "price": 3.0,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Cherry_Stella444.jpg"
   },
   {
     "id": 10,
